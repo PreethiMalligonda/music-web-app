@@ -130,7 +130,7 @@
 <distributionManagement>
     <repository>
         <id>nexus-server</id>
-        <name>Dev</name>
+        <name>music</name>
         <url>http://192.168.56.25:8081/nexus/#view-repositories;music~browsestorage</url>
     </repository>
 </distributionManagement>
