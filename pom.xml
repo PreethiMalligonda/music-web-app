@@ -129,9 +129,9 @@
 	</build>
 <distributionManagement>
     <repository>
-        <id>release</id>
+        <id>nexus-server</id>
         <name>Dev</name>
-        <url>http://18.217.209.105:8081/#admin/repository/repositories:gameoflife-dev</url>
+        <url>http://192.168.56.25:8081/nexus/#view-repositories;music~browsestorage</url>
     </repository>
 </distributionManagement>
 
